@@ -17,6 +17,7 @@ Add to your `application.css`:
     //= require kickstrap-rails
 
 Also you can select theme:
+
     //= require kickstrap/themes/simplex
 
 Then just [use kickstrap as normal](http://ajkochanowicz.github.com/Kickstrap/index.html).
