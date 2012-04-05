@@ -15,7 +15,6 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = KickstrapRails::VERSION
 
-  gem.add_dependency "twitter-bootstrap-rails"
   gem.add_runtime_dependency "less-rails"
   gem.add_development_dependency "rails", "~> 3.2"
 end
