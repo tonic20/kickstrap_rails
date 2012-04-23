@@ -1,3 +1,4 @@
+require "less-rails"
 require "kickstrap_rails/version"
 
 module KickstrapRails
