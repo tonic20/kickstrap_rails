@@ -14,7 +14,7 @@ Add to your `application.js`:
 
 Add to your `application.css`:
 
-    //= require kickstrap-rails
+    //= require kickstrap
 
 Also you can select theme:
 
